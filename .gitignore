@@ -1,0 +1,5 @@
+specsheet.txt
+__pycache__
+*_pubkey.txt
+*_privkey.txt
+*_encrypted.txt
